@@ -1,0 +1,7 @@
+Python
+pandas
+numpy
+mysql-connector-python
+openpyxl 
+Excel 
+Power-BI
